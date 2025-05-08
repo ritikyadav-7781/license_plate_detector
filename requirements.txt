@@ -1,5 +1,5 @@
 pandas
 matplotlib
 streamlit
-opencv-python
+opencv-python-headless==4.8.0.76  # or a compatible version
 ultralytics
