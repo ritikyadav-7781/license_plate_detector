@@ -2,5 +2,6 @@ pandas
 numpy==2.2.5
 matplotlib
 streamlit
-opencv-python  # or a compatible version
+Pillow
+moviepy
 ultralytics
