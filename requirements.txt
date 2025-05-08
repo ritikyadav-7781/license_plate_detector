@@ -3,5 +3,5 @@ numpy==2.2.5
 matplotlib
 streamlit
 Pillow
-moviepy
+opencv-python
 ultralytics
