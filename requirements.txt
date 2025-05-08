@@ -2,5 +2,5 @@ pandas
 numpy==2.2.5
 matplotlib
 streamlit
-opencv-python-headless==4.8.0.76  # or a compatible version
+opencv-python  # or a compatible version
 ultralytics
